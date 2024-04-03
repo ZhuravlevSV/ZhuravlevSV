@@ -1,18 +1,19 @@
 👋 Hi there, I’m @ZhuravlevSV.
 
-🎓 I’m student of Czech Technical University in Prague (CTU) Faculty Infromation Technologies.
+🎓 I’m a student at Czech Technical University in Prague (CTU), studying at the Faculty of Information Technologies.
 
-👀 I’m interested in Java Backend Developing and Software Architecture.
+👀 I’m interested in Java Backend Development and Software Architecture.
 
-🌱 I work as Java Backend Developer at the project with Spring Boot and Microservices.
+🌱 I work as a Java Backend Developer on projects involving Spring Boot and Microservices.
 
-🌱 I use Java Core, Spring Boot, Spring Cloud, Spring Security and other Java backend technologies.
+🌱 I specialize in Java Core, Spring Boot, Spring Cloud, Spring Security, and other Java backend technologies.
 
-🌱 Now I am Software Developer, but I am on my way to become Software Architect.
+🌱 Currently, I am a Software Developer, but I am on my way to becoming a Software Architect.
 
-📫 How to reach me:  🟦 [LinkedIn](https://www.linkedin.com/in/semen-zhuravlev-more/)
+📫 How to reach me:  
+   🟦 [LinkedIn](https://www.linkedin.com/in/semen-zhuravlev-more/)  
+   📧 [Mail](mailto:zhuravlev.more@gmail.com)
 
-                      📧 [Mail](mailto:zhuravlev.more@gmail.com)
 
 <!--
 **ZhuravlevSV/ZhuravlevSV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
