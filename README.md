@@ -1,11 +1,17 @@
 👋 Hi there, I’m @ZhuravlevSV.
 
 🎓 I’m student of Czech Technical University in Prague (CTU) Faculty Infromation Technologies.
+
 👀 I’m interested in Java Backend Developing and Software Architecture.
+
 🌱 I work as Java Backend Developer at the project with Spring Boot and Microservices.
+
 🌱 I use Java Core, Spring Boot, Spring Cloud, Spring Security and other Java backend technologies.
+
 🌱 Now I am Software Developer, but I am on my way to become Software Architect.
+
 📫 How to reach me:  🟦 [LinkedIn](https://www.linkedin.com/in/semen-zhuravlev-more/)
+
                       📧 [Mail](mailto:zhuravlev.more@gmail.com)
 
 <!--
