@@ -10,9 +10,7 @@
 
 🌱 Currently, I am a Software Developer, but I am on my way to becoming a Software Architect.
 
-📫 How to reach me:  
-   🟦 [LinkedIn](https://www.linkedin.com/in/semen-zhuravlev-more/)  
-      📧 [Mail](mailto:zhuravlev.more@gmail.com)
+📫 How to reach me: [🟦 LinkedIn](https://www.linkedin.com/in/semen-zhuravlev-more/), [📧 Mail](mailto:zhuravlev.more@gmail.com)
 
 
 
